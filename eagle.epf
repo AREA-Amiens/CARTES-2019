@@ -1,0 +1,31 @@
+[Eagle]
+Version="09 03 02"
+Platform="Windows"
+Globals="Globals"
+Desktop="Desktop"
+
+[Globals]
+AutoSaveProject=1
+UsedLibraryUrn="urn:adsk.eagle:library:320"
+UsedLibraryUrn="urn:adsk.eagle:library:334"
+UsedLibraryUrn="urn:adsk.eagle:library:371"
+UsedLibraryUrn="urn:adsk.eagle:library:372"
+UsedLibraryUrn="urn:adsk.eagle:library:396"
+UsedLibraryUrn="urn:adsk.eagle:library:398"
+UsedLibraryUrn="urn:adsk.eagle:library:399"
+UsedLibraryUrn="urn:adsk.eagle:library:402"
+UsedLibraryUrn="urn:adsk.eagle:library:113"
+UsedLibraryUrn="urn:adsk.eagle:library:2651830"
+UsedLibraryUrn="urn:adsk.eagle:library:165"
+UsedLibrary="C:/Users/alexp/Documents/EAGLE/libraries/AREA.lbr"
+UsedLibrary="C:/Users/alexp/Documents/EAGLE/libraries/KARIBOUS.lbr"
+UsedLibrary="C:/Users/alexp/Documents/EAGLE/libraries/OPENBOT.lbr"
+UsedLibrary="C:/Users/alexp/Documents/EAGLE/libraries/P2N2222AG.lbr"
+
+[Win_1]
+Type="Control Panel"
+Number=0
+
+[Desktop]
+Screen="1920 1080"
+Window="Win_1"
